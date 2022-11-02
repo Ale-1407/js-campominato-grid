@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
-    height: 100vh;
-}
+
 
 .logo img{
     height: 120px;
@@ -42,3 +40,4 @@ main{
     background-color: violet;
     color: white;
 }
+
